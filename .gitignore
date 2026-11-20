@@ -1,0 +1,5 @@
+.env
+wallets.json
+logs/
+__pycache__/
+*.pyc
